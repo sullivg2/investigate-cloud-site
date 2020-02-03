@@ -5,7 +5,7 @@ permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000000"
-  overlay_filter: "0.35"
+  overlay_filter: "0.75"
   overlay_image: "/assets/hero-map.png"
   actions:
     - label: "Learn More"
