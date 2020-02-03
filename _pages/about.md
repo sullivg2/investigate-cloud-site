@@ -22,7 +22,7 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: "/assets/images/map-icon.png"
-    alt: "placeholder image 2"
+    alt: "map2"
     title: "Cloud Status Alerts"
     excerpt: "View a real time aggregated feed of public cloud status updates."
     btn_label: "Read More"
