@@ -5,11 +5,11 @@ permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000000"
-  overlay_filter: "0.25"
+  overlay_filter: "0.35"
   overlay_image: "/assets/hero-map.png"
   actions:
     - label: "Learn More"
-      url: "/terms/"
+      url: "https://map.investigate.cloud"
 excerpt: "Keeping an eye on public cloud infrastructure"
 intro: 
   - excerpt: 'transparent, neutral data about the cloud computing landscape
@@ -21,14 +21,14 @@ feature_row:
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
     btn_label: "Read More"
     btn_class: "btn--primary" 
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/map-icon.png
     alt: "placeholder image 2"
     title: "Cloud Status Alerts"
     excerpt: "View a real time aggregated feed of public cloud status updates."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - image_path: /assets/images/map-icon.png
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     btn_label: "Read More"
