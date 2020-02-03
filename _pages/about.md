@@ -17,14 +17,14 @@ intro:
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
-    title: "Cloudmap"
-    excerpt: "Browse public cloud regions and edge sites around the world."
+    title: "Interactive Cloud Map"
+    excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "CloudWatch"
-    excerpt: "Real time aggregated feed of public cloud status updates."
+    title: "Cloud Status Alerts"
+    excerpt: "View a real time aggregated feed of public cloud status updates."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -60,6 +60,12 @@ feature_row4:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
