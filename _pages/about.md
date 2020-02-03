@@ -16,7 +16,7 @@ intro:
 '
 feature_row:
   - image_path: /assets/images/map-icon.png
-    alt: "placeholder image 1"
+    alt: "map"
     title: "Interactive Cloud Map"
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
     btn_label: "Read More"
@@ -25,7 +25,6 @@ feature_row:
     alt: "placeholder image 2"
     title: "Cloud Status Alerts"
     excerpt: "View a real time aggregated feed of public cloud status updates."
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/map-icon.png
@@ -38,7 +37,6 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
