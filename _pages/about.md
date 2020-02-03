@@ -24,7 +24,7 @@ feature_row:
   - image_path: ""
     alt: "map2"
     title: "Cloud Status Alerts"
-    excerpt: "View a real time aggregated feed of public cloud status updates."
+    excerpt: "View and subbscribe to the real time aggregated feed of public cloud status alerts and updates."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: ""
