@@ -5,7 +5,7 @@ permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000000"
-  overlay_filter: "0"
+  overlay_filter: "0.25"
   overlay_image: "/assets/cloudmapss.png"
   actions:
     - label: "Learn More"
