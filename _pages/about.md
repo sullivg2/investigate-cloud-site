@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000000"
   overlay_filter: "0.25"
-  overlay_image: "/assets/cloudmapss.png"
+  overlay_image: "/assets/hero-map.png"
   actions:
     - label: "Learn More"
       url: "/terms/"
@@ -15,7 +15,7 @@ intro:
   - excerpt: 'transparent, neutral data about the cloud computing landscape
 '
 feature_row:
-  - image_path: assets/images/map-icon.png
+  - image_path: /assets/images/map-icon.png
     alt: "placeholder image 1"
     title: "Interactive Cloud Map"
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
