@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/terms/"
-excerpt: "Research cloud projects with transparent, neutral data about the cloud computing landscape"
+excerpt: "Keeping an eye on public cloud infrastructure"
 intro: 
   - excerpt: 'transparent, neutral data about the cloud computing landscape
 '
@@ -62,10 +62,6 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
 
