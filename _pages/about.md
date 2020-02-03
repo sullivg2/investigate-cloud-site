@@ -15,7 +15,7 @@ intro:
   - excerpt: 'transparent, neutral data about the cloud computing landscape
 '
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/map-icon.png
     alt: "placeholder image 1"
     title: "Interactive Cloud Map"
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
