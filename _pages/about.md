@@ -4,9 +4,9 @@ layout: splash
 permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#73857f"
+  overlay_color: "#000000"
   overlay_filter: "0.5"
-  overlay_image: 
+  overlay_image: "/assets/snazzy-image.png"
   actions:
     - label: "Learn More"
       url: "/terms/"
