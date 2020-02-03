@@ -5,7 +5,7 @@ permalink: /about/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000000"
-  overlay_filter: "0.5"
+  overlay_filter: "0"
   overlay_image: "/assets/snazzy-image.png"
   actions:
     - label: "Learn More"
@@ -58,8 +58,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
