@@ -49,11 +49,11 @@ feature_row3:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: "/assets/simple-map-image.png"
-    alt: "placeholder image 2"
+    alt: "cloud-map"
     title: "Investigate the Map"
     excerpt: 'View public cloud regions and edge sites in the interactive map'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://map.investigate.cloud/"
+    btn_label: "Explore"
     btn_class: "btn--primary"
 ---
 
