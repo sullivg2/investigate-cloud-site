@@ -48,7 +48,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: "/assets/map.investigate.png
+  - image_path: "/assets/hero-map.png"
     alt: "placeholder image 2"
     title: "Investigate the Map"
     excerpt: 'View public cloud regions and edge sites in the interactive map'
