@@ -15,13 +15,13 @@ intro:
   - excerpt: 'transparent, neutral data about the cloud computing landscape
 '
 feature_row:
-  - image_path: "/assets/mapicon.png"
+  - image_path: "/assets/map-icon.png"
     alt: "map"
     title: "Interactive Cloud Map"
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
     btn_label: "Read More"
     btn_class: "btn--primary" 
-  - image_path: /assets/mapicon.png
+  - image_path: /assets/map-icon.png
     alt: "map2"
     title: "Cloud Status Alerts"
     excerpt: "View and subbscribe to the real time aggregated feed of public cloud status alerts and updates."
