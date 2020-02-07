@@ -40,12 +40,12 @@ feature_row2:
     btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
+  - image_path: /assets/images/map-gui.png
+    alt: "Map IU"
+    title: "Investigate the Map"
     excerpt: "View public cloud regions and edge sites in the interactive map"
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "https://map.investigate.cloud"
+    btn_label: "Expore"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: "/assets/simple-map-image.png"
@@ -59,6 +59,6 @@ feature_row4:
 
 {% include feature_row %}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
