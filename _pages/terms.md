@@ -1,8 +1,9 @@
 ---
 permalink: /faq/
 title: "FAQ"
+layout: default
 last_modified_at: 2020-02-07
-toc: false
+toc: true
 ---
 
 Investigate Cloud is a free resource created by [Geoff Sullivan](https://geoffsullivan.net). Data contained in this map was complied by Geoff and is updated on a regular basis.
