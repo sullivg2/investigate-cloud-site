@@ -33,11 +33,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    btn_label: "Read More"
+  - image_path: "/assets/simple-map-image.png"
+    alt: "map"
+    title: "Investigate the Map"
+    excerpt: 'View public cloud regions and edge sites in the interactive map'
+    btn_label: "Explore"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -58,5 +58,7 @@ feature_row4:
 ---
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row4" type="center" %}
