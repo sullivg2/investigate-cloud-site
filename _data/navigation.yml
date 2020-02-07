@@ -2,8 +2,8 @@
 main:
   - title: "Map"
     url: https://map.investigate.cloud
-  - title: "About"
-    url: https://map.investigate.cloud
+  - title: "FAQ"
+    url: https://investigate.cloud/faq
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
