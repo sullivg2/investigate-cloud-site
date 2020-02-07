@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: https://investigate.cloud
   - title: "Map"
     url: https://map.investigate.cloud
   - title: "FAQ"
