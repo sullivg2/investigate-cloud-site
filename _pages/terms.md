@@ -1,37 +1,36 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-last_modified_at: 2016-06-06
-toc: true
+permalink: /faq/
+title: "FAQ"
+last_modified_at: 2020-02-07
+toc: false
 ---
 
-## Privacy Policy
+Investigate Cloud is a free resource created by [Geoff Sullivan](https://geoffsullivan.net). Data contained in this map was complied by Geoff and is updated on a regular basis.
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+## How many regions are there?
+As of February 2020, there are approximately 212 public cloud regions and edge sites globally. 
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+The total number of regions is constantly changing as new regions and edge sites enter service.
 
-### Log Files
+## What data is included in the map?
+The map includes the following data points about each public cloud region or edge site shown:
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+* Official region ID
+* Region type (Public cloud region or Edge site)
+* Cloud provider
+* Location (city & country)
+* Approximate coordinates
+ 
+## Who sponsors this map?
+Currently, the interactive map is not sponsored. If you are interested in sponsoring the map, [contact us](mailto:geoffrsullivan@gmail.com).
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+## What can I do on the map?
+Click on any region to reveal its information. Region markers are color coded by provider. Locations with multiple provider regions will display a cluster icon. Click on the cluster icon to reveal all of the regions in that location.
 
-All of this information is not linked to anything that is personally identifiable.
+You can use the search bar to enter any address or location and the map will focus in on it.
 
-### Cookies and Web Beacons
+## Can I download the data to make my own map?
+Currently, the data is not available for download. The long term plan is to open source all of the project code and data. Stay tuned for an announcement on this soon.
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+## How often do you update the map?
+The map is updated on a weekly basis.
