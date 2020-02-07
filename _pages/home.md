@@ -16,13 +16,11 @@ intro:
 '
 feature_row:
   - image_path: ""
-    alt: "map"
     title: "Interactive Cloud Map"
     excerpt: "Browse public cloud regions and edge sites from the leading cloud infrastructure providers around the world."
     btn_label: "Read More"
     btn_class: "btn--primary" 
   - image_path: ""
-    alt: "map2"
     title: "Cloud Status Alerts"
     excerpt: "View and subbscribe to the real time aggregated feed of public cloud status alerts and updates."
     btn_label: "Read More"
