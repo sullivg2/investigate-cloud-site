@@ -27,7 +27,7 @@ feature_row:
     excerpt: "View and subbscribe to the real time aggregated feed of public cloud status alerts and updates."
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: "/assets/map-icon.png"
+  - image_path: ""
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     btn_label: "Read More"
