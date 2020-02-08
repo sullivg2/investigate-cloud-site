@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary" 
   - image_path: ""
     title: "Cloud Status Alerts"
-    excerpt: "View and subscribe to the real time aggregated feed of public cloud status alerts and updates."
+    excerpt: "View and subscribe (coming soon) to the real time aggregated feed of public cloud status alerts and updates."
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: ""
