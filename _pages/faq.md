@@ -34,4 +34,17 @@ You can use the search bar to enter any address or location and the map will foc
 Currently, the data is not available for download. The long term plan is to open source all of the project code and data. Stay tuned for an announcement on this soon.
 
 ## How often do you update the map?
-The map is updated on a weekly basis.
+The map is updated on a monthly basis.
+
+## How does Cloudwatch work?
+Cloudwatch aggregates RSS feeds from cloud provider's Status pages and posts updates in real time on [map.investigate.cloud](https://map.investigate.cloud). Currently Cloudwatch monitors the following providers:
+
+* AWS
+* Azure
+* Digitalocean
+* IBM
+* Oracle Cloud
+* Packet
+
+Alibaba Cloud and Tencent Cloud currently do not provide publically accessible status pages or RSS feeds
+{: .notice--info}
