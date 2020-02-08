@@ -8,7 +8,7 @@ header:
   overlay_filter: "0"
   overlay_image: "/assets/hero-map-main.png"
   actions:
-    - label: "Learn More"
+    - label: "Explore"
       url: "https://map.investigate.cloud"
 excerpt: "Keeping an eye on public cloud infrastructure"
 intro: 
