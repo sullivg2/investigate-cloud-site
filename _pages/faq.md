@@ -48,3 +48,6 @@ Cloudwatch aggregates RSS feeds from cloud provider's Status pages and posts upd
 
 Alibaba Cloud and Tencent Cloud currently do not provide publically accessible status pages or RSS feeds
 {: .notice--info}
+
+## How do I make a feature request?
+To request a new feature or dataset, go to the public [Trello](https://trello.com/b/YUmTWeNI/investigatecloud-public-roadmap) and either vote for a previously requested feature in the backlog or create a new card in the backlog. 
