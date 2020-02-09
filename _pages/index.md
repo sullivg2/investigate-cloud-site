@@ -65,8 +65,16 @@ gallery:
     image_path: assets/64px/do-icon-64.png
     alt: "do"
     title: "do"
+  - url: /assets/64px/gcp-icon-64.png
+    image_path: assets/64px/gcp-icon-64.png
+    alt: "gcp"
+    title: "gcp"    
+  - url: /assets/64px/ibm-icon-64.png
+    image_path: assets/64px/ibm-icon-64.png
+    alt: "ibm"
+    title: "ibm"        
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery layout="third" %}
 
 {% include feature_row %}
 
