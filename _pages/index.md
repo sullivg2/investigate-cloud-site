@@ -61,10 +61,20 @@ feature_row4:
 
 <h2>Sign up for Infrastructure as a Newsletter</h2>
 <p>Subscribe to customizable feeds to your inbox (coming soon!)</p>
-<form name="contact" method="POST" data-netlify="true">
-  <div class="form-group">
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address">
-    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+<section class="parallax-feature">
+  <div class="starfield"></div>
+  <i class="fa fa-paper-plane"></i>
+  <div class="feature-title">
+    SUBSCRIBE TO OUR NEWSLETTER
   </div>
-  <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+  <div class="feature-input">
+       <div id="subscribe">
+            <input type="text" class="enteremail error" name="EMAIL" id="subscribe-email" placeholder="Enter your email address" spellcheck="false">
+            <button type="submit" id="signup-button" class="signup-button">Submit</button>
+            <label for="subscribe-email" class="subscribe-message error" style="">
+              <i class="fa fa-warning"></i>
+              <span class="message-content"></span>
+            </label>
+       </div>
+  </div>
+</section>
