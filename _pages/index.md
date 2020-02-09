@@ -61,6 +61,7 @@ feature_row4:
 
 <h2>Sign up for Infrastructure as a Newsletter</h2>
 <p>Subscribe to customizable feeds to your inbox (coming soon!)</p>
+<form name="contact" method="POST" data-netlify="true">
 <section class="parallax-feature">
   <div class="starfield"></div>
   <i class="fa fa-paper-plane"></i>
@@ -78,3 +79,4 @@ feature_row4:
        </div>
   </div>
 </section>
+</form>
