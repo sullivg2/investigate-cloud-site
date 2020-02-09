@@ -74,7 +74,7 @@ gallery:
     alt: "ibm"
     title: "ibm"        
 ---
-{% include gallery layout="third" %}
+{% include gallery layout="third" class="img-thumbnail" %}
 
 {% include feature_row %}
 
