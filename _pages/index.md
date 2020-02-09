@@ -60,12 +60,10 @@ feature_row4:
 {% include feature_row id="feature_row4" type="center" %}
 
 <h2>Sign up for Infrastructure as a Newsletter</h2>
-<p>Get our roundup of sysadmin tutorials and open source happenings delivered to your inbox once you sign up and again every two weeks.<p>
 
 <form name="contact" method="POST" data-netlify="true">
   <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="My email">
+    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email address">
     <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
