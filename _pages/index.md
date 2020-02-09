@@ -12,8 +12,7 @@ header:
       url: "https://map.investigate.cloud"
 excerpt: "Keeping an eye on public cloud infrastructure"
 intro: 
-  - excerpt: 'transparent, neutral data about the cloud computing landscape
-'
+  - excerpt: 'transparent, neutral data about the cloud computing landscape'
 feature_row:
   - image_path: ""
     title: "Interactive Cloud Map"
@@ -53,7 +52,21 @@ feature_row4:
     url: "https://map.investigate.cloud/"
     btn_label: "Explore"
     btn_class: "btn--primary"
+gallery:
+  - url: /assets/64px/aws-icon-64.png
+    image_path: assets/64px/aws-icon-64.png
+    alt: "aws"
+    title: "azure"
+  - url: /assets/64px/azure-icon-64.png
+    image_path: /assets/64px/azure-icon-64.png
+    alt: "azure"
+    title: "azure"
+  - url: /assets/64px/do-icon-64.png
+    image_path: assets/64px/do-icon-64.png
+    alt: "do"
+    title: "do"
 ---
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 {% include feature_row %}
 
